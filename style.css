@@ -164,7 +164,7 @@ html {
     z-index: 15;
 }
 
-#popupfront1{
+#popupfront111{
     position: absolute;
     z-index: 70;
     height: 75vh;
@@ -237,6 +237,14 @@ html {
     transition: 1s ease;
 }
 #popupfront10 {
+    position: absolute;
+    z-index: 70;
+    height: 75vh;
+    width: 60vw;
+    scale: 0;
+    transition: 1s ease;
+}
+#popupfront11 {
     position: absolute;
     z-index: 70;
     height: 75vh;
